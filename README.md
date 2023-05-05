@@ -12,8 +12,12 @@ _Objective:_
  Captura de tela Figma, Desktop e Mobile:
 <br>
  _Figma Screenshot, Desktop and Mobile:_
-![](../images/desktop.png) 
-![](../images/mobile.png)
+ <p align="center">
+  <img width="470" src="assets/to_reamde/desketop.png">
+ </p>
+
+![](./images/desktop.png) 
+![](./images/mobile.png)
 
 # ⚙️ Techonogias:
 _Technology:_
@@ -29,7 +33,7 @@ _Responsiveness on a few different devices:_
 
 📸 Screenshots: Desktop e iPhone 14 Pro Max:
 
-![](../images/desktopandmobile.png) 
+![](../images/desktop-and-mobile.png) 
 
 #
 ## 📝 Projeto:
