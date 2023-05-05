@@ -8,13 +8,11 @@ _Objective:_
 
 🇺🇸 _This challenge consisted of putting into practice all the content learned from stage 1 to 4, in Rocketseat's Explore course._
 
-📸 <br> 
- Captura de tela Figma, Desktop e Mobile:
-<br>
- _Figma Screenshot, Desktop and Mobile:_
-![](./images/desktop.png) 
-![](./images/mobile.png)
- 
+# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes:
+🫴🏼 _Responsiveness on a few different devices:_
+
+📸 _Screenshots: Desktop e iPhone 14 Pro Max:_
+![](./images/desktop-and-mobile.png) 
 
 # ⚙️ Techonogias:
 _Technology:_
@@ -22,14 +20,6 @@ _Technology:_
 - [HTML](./index.html)
 - [CSS](./css.html)
 - [Figma](https://www.figma.com/file/563kgHMxsEy17nCdTJI6JC/Explore-sem-limites?node-id=0-1&t=4KsrAeSsNhcegC80-0)
-
-
-
-# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes:
-_Responsiveness on a few different devices:_  
-
-📸 Screenshots: Desktop e iPhone 14 Pro Max:
-![](./images/desktop-and-mobile.png) 
 
 #
 ## 📝 Projeto:
