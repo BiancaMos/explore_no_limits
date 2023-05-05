@@ -12,7 +12,10 @@ _Objective:_
 🫴🏼 _Responsiveness on a few different devices:_
 
 📸 _Screenshots: Desktop e iPhone 14 Pro Max:_
+
 ![](./images/desktop-and-mobile.png) 
+![](./images/desktop.png)
+![](./images/mobile.png)
 
 # ⚙️ Techonogias:
 _Technology:_
